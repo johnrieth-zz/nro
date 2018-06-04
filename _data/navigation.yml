@@ -1,0 +1,53 @@
+# This is the configuration for the site navigation.
+
+# This file defines the structure of various named navigational
+# listings, any of which can be used (with some caveats) as the
+# links in your header, footer, and per-page side navigation.
+#
+# For instance, if you have a "primary" navigation list here, you
+# can use that as your header's primary navigation by setting
+# `primary.links` to "primary":
+#
+# primary:
+#   links: primary
+#
+primary:
+  - text: About Us
+    links:
+      - text: Who We Are
+        href: /about/who/
+      - text: What We Do
+        href: /about/what/
+      - text: Mission
+        href: /about/mission/
+  - text: Information
+    links:
+      - text: News
+        href: /info/news/
+      - text: History
+        href: /info/history/
+      - text: Freedom of Information Act
+        href: /info/foia
+  - text: Careers & Internships
+    href: /careers/
+  - text: Offices of NRO
+    href: /offices/
+
+
+
+
+
+
+footer:
+  - text: Site Policies
+    href: #
+    external: false
+  - text: USA.gov
+    href: https://www.usa.gov/
+    external: true
+  - text: Links
+    href: #
+    external: false
+  - text: Site Map
+    href: #
+    external: false
