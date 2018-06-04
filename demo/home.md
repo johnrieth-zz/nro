@@ -8,7 +8,7 @@ hero:
   image: /assets/uswds/img/hero.png
   callout:
     alt: "Satellite Innovation:"
-    text: We Develop and Launch Cutting- Edge Satellite Systems
+    text: We Develop and Launch Cutting-Edge Satellite Systems
   button:
     href: /#/
     text: Our Innovative Work
